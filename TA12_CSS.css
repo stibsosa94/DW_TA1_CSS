@@ -1,0 +1,18 @@
+.uno{
+    background-color: black;
+    color: white;
+}
+.dos{
+    background-color: yellow;
+}
+
+/* Tambien es posible realizarlo de esta manera
+.uno, .dos{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}*/
+
+button{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
